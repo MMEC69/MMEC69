@@ -4,7 +4,9 @@
 - 🌱 I’m currently learning Java Script, React, React Native, NodeJS  
 - 💞️ I’m looking to collaborate with anyone who is willing to study hard and code hard and to grow
 - 📫 Just send me an email if you are interested
-- email -> coorayeronnemanoshapineapple@gmail.com
+- email -> cooray2108@gmail.com
+- alt email -> coorayeronnemanoshapineapple@gmail.com 
+
 
 <!---
 MMEC69/MMEC69 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
